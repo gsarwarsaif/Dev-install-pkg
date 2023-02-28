@@ -1,0 +1,6 @@
+TO CREAT A NEW FILE AND OTHER WORKS WILL BE OF LINUX COMMAND.
+execute "run a script" do
+command <<-EOH
+mkdir /rajputdir
+touch /rajputfile
+EOH
